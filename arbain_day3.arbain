@@ -1,0 +1,12 @@
+
+public class arbain_day3 {
+   public static void main(String[] args){
+       String a = "bikin codingan hari ketiga";
+       int angka1 = 20;
+       int angka2 = 10;
+       System.out.println(a);
+       System.out.println(angka1 + angka2);
+   }
+}
+    
+
